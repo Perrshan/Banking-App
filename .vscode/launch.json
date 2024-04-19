@@ -5,11 +5,11 @@
         
 
         {
-            "name": "Banking Project",
+            "name": "Budget Project",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build-BankingApp",
-            "program": "${workspaceFolder}/bin/Debug/net7.0/BankingApp.dll",
+            "preLaunchTask": "build-BudgetApp",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/BudgetApp.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",

@@ -4,12 +4,12 @@
     "tasks": [
 
         {
-            "label": "build-BankingApp",
+            "label": "build-BudgetApp",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/BankingApp.csproj",
+                "${workspaceFolder}/BudgetApp.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
