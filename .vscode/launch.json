@@ -1,0 +1,21 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "Banking Project",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-BankingApp",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/BankingApp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+    ]
+}
